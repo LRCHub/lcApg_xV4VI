@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "たられば",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-02-07T22:10:31.883738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "たられば acoustic ver.",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_たられば_acoustic_ver._amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "たられば",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_たられば_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "たられば -acoustic ver.-",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_たられば_-acoustic_ver.-_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たられば",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_たられば_amazarashi.txt"
+    }
+  ]
+}
